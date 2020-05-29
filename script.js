@@ -1,4 +1,4 @@
-//solved this one on my own & checked it using https://www.tools4noobs.com/online_tools/seconds_to_hh_mm_ss/
+//solved this one on my own & checked different values for totalSeconds using https://www.tools4noobs.com/online_tools/seconds_to_hh_mm_ss/
 
 const videos = document.querySelector(".videos");
 const data = videos.getElementsByTagName("li");
